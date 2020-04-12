@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "Car Garage"
 date: 2020-04-12 20:15:00 -0000
 categories: craft
