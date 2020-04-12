@@ -2,7 +2,7 @@
 layout: page
 title: "Eiffel Tower at Night"
 date: 2020-04-12 19:45:00 -0000
-categories: Art
+categories: art
 ---
 
 I made a night scene using oil pastels. The black thing is the Eiffel Tower at night. 
