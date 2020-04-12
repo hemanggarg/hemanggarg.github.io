@@ -17,13 +17,13 @@ In our home getting bored,
 Can't even see Ferrari vs Ford.
 
 When coronavirus gets killed,
-We will no longer be medically billed.
+We won't have to pay doctor's bill.
 
 Hard to spend our time,
 Watching Amazon Prime.
 
 Watching it for hours,
-Scared of the problem going too far.
+Scared of the problem does not go far
 
 That it would happen all life,
 Gets more serious and all the like.
