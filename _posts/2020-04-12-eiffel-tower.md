@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Eiffel Tower at Night"
 date: 2020-04-12 19:45:00 -0000
 categories: art
