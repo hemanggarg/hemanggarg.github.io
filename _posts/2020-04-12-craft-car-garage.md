@@ -7,4 +7,4 @@ categories: craft
 
 I made a car parking using cardboard to keep my toy cars in place. 
 
-![Car Garage](https://hemanggarg.github.io/assets/car-garage.jpg "Car Garage")
+![Car Garage](https://hemanggarg.github.io/assets/craft-car-garage.jpg "Car Garage")
